@@ -1,0 +1,3 @@
+from crewai import Agent
+
+agent = Agent(from_repository="smart-water-management-agent")
